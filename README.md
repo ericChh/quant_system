@@ -6,7 +6,7 @@ Quant trading system implemented in C++
 ## Requirements
 
 ### Functional Requirements:
-
+  
 #### Data Management:
 Ability to collect financial data from various sources, such as market prices, historical data, and news articles.
 Ability to store and organize large amounts of data in a structured and efficient way.
@@ -32,7 +32,9 @@ Ability to analyze the system's performance and risk over time.
 Ability to generate reports and visualizations to help understand the system's performance and risk.
 Ability to backtest the system's performance using historical data.
 
-
+  
+    
+      
 ### Non-functional Requirements:
 #### Scalability:
 Ability to handle large amounts of data and trading activity in real-time.
@@ -49,9 +51,10 @@ Ability to comply with industry regulations and standards, such as the General D
 #### Auditability:
 Ability to track and record all the system's activities and transactions.
 Ability to generate reports and visualizations to help understand the system's performance and risk.
-
-
-
+  
+   
+   
+  
 ### Intial System Design Diagram
 
 ![image](https://user-images.githubusercontent.com/104684751/213344666-603b221e-2b32-4d6f-bdf7-98aefef5a836.png)
