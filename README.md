@@ -49,3 +49,10 @@ Ability to comply with industry regulations and standards, such as the General D
 #### Auditability:
 Ability to track and record all the system's activities and transactions.
 Ability to generate reports and visualizations to help understand the system's performance and risk.
+
+
+
+### Intial System Design Diagram
+
+![image](https://user-images.githubusercontent.com/104684751/213344666-603b221e-2b32-4d6f-bdf7-98aefef5a836.png)
+
